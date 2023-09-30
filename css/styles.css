@@ -17,6 +17,12 @@
     
     gap: 20px;
 }
+.error{
+  color: red;
+  text-align: center;
+  font-size: 1rem;
+  display:none;
+}
 .logo{
   display: flex;
   align-items: center;
